@@ -8,10 +8,10 @@ These tasks helped me strengthen my skills in problem-solving, application struc
 Task 1 – Simple Calculator
 A GUI-based calculator built using Tkinter in Python. It performs basic arithmetic operations and includes a clear, responsive interface for user input.
 
-Task 2 – Password Generator
-A random password generator created with Python that allows users to generate strong passwords of customizable lengths using letters, numbers, and special characters.
-
-Task 3 – Rock Paper Scissors Game
+Task 2 –  Rock Paper Scissors Game
 A Python-based Rock-Paper-Scissors game with a graphical user interface using Tkinter, where the user plays against the computer. It includes random choice logic, result display, and basic score tracking.
+
+Task 3 – Password Generator
+A random password generator created with Python that allows users to generate strong passwords of customizable lengths using letters, numbers, and special characters.
 
 
